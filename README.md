@@ -16,9 +16,9 @@ Git e controle de versão
 ### Contato
 Fique à vontade para entrar em contato comigo para oportunidades de colaboração, projetos ou qualquer outra consulta:
 
-[E-mail](dryellesilva07@gmail.com)  
-[LinkedIn](https://www.linkedin.com/in/dryelle-ebelin/)  
-[Instagram](https://www.instagram.com/dryelleebelin/)  
+[E-mail]()  
+[LinkedIn](https://www.linkedin.com/in//)  
+[Instagram](https://www.instagram.com/nicoberbert/)  
 
 ### Agradecimentos
 Gostaria de agradecer a minha amada, Emanuelly, que me apoiou durante minha jornada de desenvolvimento. Sua ajuda foi fundamental para meu crescimento pessoal e profissional.
