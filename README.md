@@ -1,7 +1,7 @@
 ## Portfólio - Frontend Developer
-Bem-vindo(a) ao meu portfólio! Sou um Desenvolvedor Frontend (e Backend se necessário for kkk) especializado em criar interfaces sofisticadas e funcionais. Através deste portfólio irei compartilhar meu trabalho, habilidades e experiência como desenvolvedor.
+Bem-vindo(a) ao meu portfólio! Sou um Desenvolvedor Frontend (e Backend se necessário for) especializado em criar interfaces sofisticadas e funcionais. Através deste portfólio irei compartilhar meu trabalho, habilidades e experiência como desenvolvedor.
 
-- Visualizar portifólio: [clique aqui](https://n1codev.github.io/portfolio/)  
+- Visualizar portifólio: [clique aqui](https://nicodeveloper.netlify.app/)  
 
 ### Sobre Mim
 Diariamente sigo atualizando minhas habilidades frente as últimas tendências e tecnologias do setor.
